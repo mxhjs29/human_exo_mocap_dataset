@@ -137,7 +137,7 @@ If you use this dataset in your research, please cite:
 ```bibtex
 @dataset{human_exo_mocap_dataset,
   title     = {Human--Exoskeleton Motion Capture and Interaction Dataset},
-  author    = {Muyuan, Ma and Shuo Chen and collaborator},
+  author    = {Muyuan, Ma and Shuo, Chen and collaborator},
   year      = {2026},
   url       = {https://github.com/mxhjs29/human_exo_mocap_dataset}
 }
