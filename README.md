@@ -10,6 +10,17 @@ This repository releases a public, research-oriented dataset for studying human�
 
 本仓库公开发布一个面向科研的人体–外骨骼运动与交互数据集。数据集系统性地整合了基于 SMPL 的人体运动学数据、外骨骼运动状态、人机交互力、任务级语义信息，以及人体–外骨骼之间的交互刚度估计结果。该数据集可用于人机交互、外骨骼控制、生物力学、模仿学习与具身智能等研究方向。
 
+### Human-Exoskeleton Model
+* <img src="https://github.com/user-attachments/assets/e68a8cc3-e290-4949-9736-5266fa45d233"
+     alt="正视图-穿戴外骨骼"
+     width="600" />
+
+* <img src="https://github.com/user-attachments/assets/a07b1eb2-75d4-4a73-a43d-ffdfec148c7d"
+     alt="侧视图-穿戴外骨骼"
+     width="600" />
+
+
+
 ---
 
 ## Dataset Overview | 数据集概览
@@ -102,7 +113,11 @@ https://github.com/user-attachments/assets/13261c06-9dbb-4b3e-8314-7c33c518f91f
 * **Lifting Video 1**:
   
 * https://github.com/user-attachments/assets/951ef130-630d-4cad-8552-0add4cf0ff0c
-  
+
+* **Lifting Video 2**:
+
+* https://github.com/user-attachments/assets/19b8f8f3-b0dc-478f-ae65-b6d98c9d9b3c
+
 ---
 
 ## License
