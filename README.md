@@ -14,8 +14,7 @@ This repository releases a public, research-oriented dataset for studying human�
 
 ## Dataset Overview | 数据集概览
 
-The dataset is organized in a structured numerical format (NumPy-compatible), where each data sample corresponds to a synchronized human–exoskeleton interaction instance.
-
+The dataset is organized in a structured numerical format (NumPy-compatible), where each data sample corresponds to a synchronized human–exoskeleton interaction instanc
 Each data entry includes **13 core fields**, covering kinematics, dynamics, interaction, reward-related quantities, and semantic annotations.
 
 数据以结构化数值形式（兼容 NumPy）存储，每个样本对应一次同步的人体–外骨骼交互记录，包含 **13 个核心字段**，覆盖运动学、动力学、人机交互、奖励相关量以及任务语义信息。
