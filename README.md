@@ -79,7 +79,7 @@ Each data entry includes **13 core fields**, covering kinematics, dynamics, inte
 
 ---
 
-## Video Demonstrations | 视频演示（预留）
+## Video Demonstrations | 视频演示
 
 ### Gesture Demonstrations | 手势示例
 
@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/13261c06-9dbb-4b3e-8314-7c33c518f91f
   
 ---
 
-## License | 许可证
+## License
 
 This dataset is released for **academic research purposes only**. Please refer to the LICENSE file for detailed terms.
 
@@ -113,7 +113,7 @@ This dataset is released for **academic research purposes only**. Please refer t
 
 ---
 
-## Citation | 引用方式（预留）
+## Citation
 
 If you use this dataset in your research, please cite:
 
@@ -128,7 +128,7 @@ If you use this dataset in your research, please cite:
 
 ---
 
-## Contact | 联系方式
+## Contact
 
 For questions or collaboration, please open an issue or contact the repository maintainer.
 
