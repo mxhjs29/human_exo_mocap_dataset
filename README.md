@@ -93,31 +93,33 @@ Each data entry includes **13 core fields**, covering kinematics, dynamics, inte
 ## Video Demonstrations | 视频演示
 
 ### Gesture Demonstrations | 手势示例
-
-* **Gesture Video 1**: 
-
-https://github.com/user-attachments/assets/f1ff457d-4c0b-4e05-b6f0-55aaea672fff
-
-* **Gesture Video 2**: 
-
-https://github.com/user-attachments/assets/3985a5b1-2a2c-4cae-a668-27aa75285012
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c5fe01a-6490-4bd6-a780-ec78bbd02de2"
+       alt="Gesture Video 1"
+       width="300" />
+  <img src="https://github.com/user-attachments/assets/c90ab043-551e-4389-9612-3b7588289de9"
+       alt="Gesture Video 2"
+       width="300" />
+</p>
 
 ### Tai Chi Demonstration | 太极动作示例
 
-* **Tai Chi Video**: 
-
-https://github.com/user-attachments/assets/13261c06-9dbb-4b3e-8314-7c33c518f91f
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d19d66d-f5fb-4806-b26d-5d6bb14091ce"
+       alt="Tai Chi Video"
+       width="300" />
+</p>
 
 ### Lifting and Carrying Tasks | 搬运动作示例
 
-* **Lifting Video 1**:
-  
-https://github.com/user-attachments/assets/951ef130-630d-4cad-8552-0add4cf0ff0c
-
-* **Lifting Video 2**:
-
-https://github.com/user-attachments/assets/19b8f8f3-b0dc-478f-ae65-b6d98c9d9b3c
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80cbe037-cd96-4f88-a5d2-eec4b9877e5d"
+       alt="Lifting Video 1"
+       width="300" />
+  <img src="https://github.com/user-attachments/assets/86c01195-a991-46b0-94b4-ef7067958382"
+       alt="Lifting Video 2"
+       width="320" />
+</p>
 ---
 
 ## License
