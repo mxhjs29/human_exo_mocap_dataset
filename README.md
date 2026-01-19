@@ -140,6 +140,51 @@ If you use this dataset in your research, please cite:
   url       = {https://github.com/mxhjs29/human_exo_mocap_dataset}
 }
 ```
+```bibtex
+@article{zhang2025motionxpp,
+  title     = {Motion-X++: A Large-Scale Multimodal 3D Whole-Body Human Motion Dataset},
+  author    = {Zhang, Y. and Lin, J. and Zeng, A. and Wu, G. and Lu, S. and Fu, Y. and others and Zhang, L.},
+  journal   = {arXiv preprint arXiv:2501.05098},
+  year      = {2025},
+}
+```
+```bibtex
+@article{averta2021ulimb,
+  title   = {U-Limb: A Multi-Modal, Multi-Center Database on Arm Motion Control in Healthy and Post-Stroke Conditions},
+  author  = {Averta, G. and Barontini, F. and Catrambone, V. and Haddadin, S. and Handjaras, G. and Held, J. P.},
+  journal = {GigaScience},
+  volume  = {10},
+  number  = {6},
+  pages   = {giab043},
+  year    = {2021},
+}
+```
+```bibtex
+@misc{cmu_mocap,
+  title        = {CMU Graphics Lab Motion Capture Database},
+  author       = {{Carnegie Mellon University}},
+  howpublished = {\url{http://mocap.cs.cmu.edu/}},
+  note         = {Online; accessed as a motion capture dataset},
+}
+```
+```bibtex
+@article{caggiano2022myosuite,
+  title   = {MyoSuite: A Contact-Rich Simulation Suite for Musculoskeletal Motor Control},
+  author  = {Caggiano, V. and Wang, H. and Durandau, G. and Sartori, M. and Kumar, V.},
+  journal = {arXiv preprint arXiv:2205.13600},
+  year    = {2022},
+}
+```
+```bibtex
+@incollection{loper2023smpl,
+  title     = {SMPL: A Skinned Multi-Person Linear Model},
+  author    = {Loper, M. and Mahmood, N. and Romero, J. and Pons-Moll, G. and Black, M. J.},
+  booktitle = {Seminal Graphics Papers: Pushing the Boundaries, Volume 2},
+  pages     = {851--866},
+  year      = {2023},
+  publisher = {Springer},
+}
+```
 
 ---
 
