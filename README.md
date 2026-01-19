@@ -112,11 +112,11 @@ https://github.com/user-attachments/assets/13261c06-9dbb-4b3e-8314-7c33c518f91f
 
 * **Lifting Video 1**:
   
-* https://github.com/user-attachments/assets/951ef130-630d-4cad-8552-0add4cf0ff0c
+https://github.com/user-attachments/assets/951ef130-630d-4cad-8552-0add4cf0ff0c
 
 * **Lifting Video 2**:
 
-* https://github.com/user-attachments/assets/19b8f8f3-b0dc-478f-ae65-b6d98c9d9b3c
+https://github.com/user-attachments/assets/19b8f8f3-b0dc-478f-ae65-b6d98c9d9b3c
 
 ---
 
